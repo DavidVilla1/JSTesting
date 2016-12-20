@@ -1,2 +1,2 @@
-# JavaTesting
-Personal Java testing
+# JSTesting
+Personal Javascript testing
